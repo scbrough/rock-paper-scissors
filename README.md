@@ -1,1 +1,1 @@
-# rock-paper-scissors
+This will be the first edition of The Odin Project rock paper scissors function.  No interface just playing with the console.
